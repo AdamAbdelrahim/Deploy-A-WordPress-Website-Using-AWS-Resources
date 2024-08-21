@@ -184,7 +184,7 @@ sudo service httpd restart
 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your enhancements.
 
-## Additional Images
+## AWS Configuration + Website Example
 ![Alt text](AWSResources1.PNG)
 ![Alt text](AWSResources2.PNG)
 ![Alt text](AWSResources3.PNG)
