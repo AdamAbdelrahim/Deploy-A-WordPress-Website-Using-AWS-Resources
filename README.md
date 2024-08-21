@@ -1,4 +1,4 @@
-![Alt text(DeployingWordPressWebsiteUsingAWSArchitecture.png)
+![Alt text](DeployingWordPressWebsiteUsingAWSArchitecture.png)
 ---
 
 # Hosting a WordPress Website on AWS
