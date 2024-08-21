@@ -185,10 +185,10 @@ sudo service httpd restart
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your enhancements.
 
 ## Additional Images
-!(AWSResources1.PNG)
-!(AWSResources2.PNG)
-!(AWSResources3.PNG)
-!(AWSResources4.PNG)
-!(AWSResources5.PNG)
-!(DevelopedWebsite.PNG)
+![Alt text](AWSResources1.PNG)
+![Alt text](AWSResources2.PNG)
+![Alt text](AWSResources3.PNG)
+![Alt text](AWSResources4.PNG)
+![Alt text](AWSResources5.PNG)
+![Alt text](DevelopedWebsite.PNG)
 
